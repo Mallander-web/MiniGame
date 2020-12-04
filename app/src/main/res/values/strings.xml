@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="x">x</string>
+    <string name="Spielerx">Spieler X ist an der Reihe</string>
+    <string name="sp1">Spieler 1</string>
+    <string name="sp2">Spieler 2</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Profil">Profil</string>
+    <string name="TicTacToe">TicTacToe</string>
+    <string name="mg">Mini - Games</string>
+</resources>
